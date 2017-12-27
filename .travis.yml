@@ -35,3 +35,7 @@ cache:
     - "src/templates/campana/__snapshots__"
     - "src/templates/trabajos/__snapshots__"
     - "src/__snapshots__"
+deploy:
+  provider: firebase
+  token:
+    secure: "1/T1bY-tREh9J9uAZln2UjmRa_SML9dwnEwc3El2cchTg"
